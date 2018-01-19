@@ -4,7 +4,7 @@
 Fuzzbang is a Python 3 package providing simple fuzzing support.
 
 ## Example ##
-    from fuzzbang.alphanumericfuzer import AlphaNumericFuzzer
+    from fuzzbang.alphanumericfuzzer import AlphaNumericFuzzer
     
     N = 10 # number of test cases
 
